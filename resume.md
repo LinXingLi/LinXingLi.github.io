@@ -1,15 +1,8 @@
 # 林兴立
+| 个人信息 | 联系方式 |
+| ------ | ------ |
+| 应聘岗位：前端工程师<br>工作年限：4年<br>出生年月：1993-07<br>专 业：电子信息工程 | 电话：13723779442<br>邮箱：1531780174@qq.com<br>GitHub:  [https://github.com/linxingli](https://github.com/linxingli) |
 
->应聘岗位：前端工程师  
->工作年限：4年  
->出生年月：1993-07  
->专 业：电子信息工程
-
-## 联系方式
-
->电话：13723779442              		          
->邮箱：1531780174@qq.com                      
->GitHub:  [https://github.com/linxingli](https://github.com/linxingli)
 
 ## 专业技能
 
